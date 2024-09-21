@@ -1,5 +1,4 @@
 ### To detect faces in images
-
 import numpy as np
 import argparse
 import cv2
